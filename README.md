@@ -11,7 +11,7 @@
 
 🚀 Sempre buscando conhecimento em Front-End 
 
-👨🏽‍💻 [Portifolio](https://allesoares95.github.io/projeto-portifolio/)
+👨🏽‍💻 [Portfolio](https://allesoares95.github.io/projeto-portifolio/)
 
 #
 
