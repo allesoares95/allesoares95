@@ -7,7 +7,7 @@
 
 🔭Atualmente estou a procura de uma vaga Júnior em Front-End
 
-❤️ Love Tecnologia, Gamers e Esportes 
+❤️ Love Tecnologia, Gamer e Esportes 
 
 🚀 Sempre buscando conhecimento em Front-End 
 
