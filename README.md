@@ -7,8 +7,6 @@
 
 🔭Atualmente estou a procura de uma vaga Júnior em Front-End
 
-❤️ Love Tecnologia, Gamer e Esportes 
-
 🚀 Sempre buscando conhecimento em Front-End 
 
 👨🏽‍💻 [Portfolio](https://allesoares95.github.io/projeto-portifolio/)
