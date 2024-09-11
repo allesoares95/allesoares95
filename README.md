@@ -3,11 +3,9 @@
 
 ### Olá, Seja Bem vindo  👋
 
-🔥Desenvolvedor Front-End Web Developer Júnior 
+🔥Desenvolvedor Júnior FullStack
 
-🔭Atualmente estou a procura de uma vaga Júnior em Front-End
-
-🚀 Sempre buscando conhecimento em Front-End 
+🚀 Sempre buscando melhorar meus conhecimento em FullStack 
 
 👨🏽‍💻 [Portfolio](https://allesoares95.github.io/projeto-portifolio/)
 
